@@ -2,7 +2,7 @@ print("""
           ********* ▀▄▀▄▀▄The Island▄▀▄▀▄▀********
 
 \n""")
-print("Welcome to my Island!")
+print("Welcome to my Island!🏝️🏝️🏝️")
 print("There are two doors in front of you: a red door 🚪  and a blue door 🚪.")
 door = input("Which door do you want to chose?\n").lower()
 if door == "red":
