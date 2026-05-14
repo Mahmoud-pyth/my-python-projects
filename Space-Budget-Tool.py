@@ -1,0 +1,7 @@
+length = input("Enter the length:\n")
+width = input("Enter the width:\n")
+price = input("Enter the price:\n")
+total_area = float(length) * float(width)
+total_price = float(price) * float(total_area)
+print("The total area is: " + str(total_area) + " meter")
+print("The total price is: " + "$" + str(total_price))
